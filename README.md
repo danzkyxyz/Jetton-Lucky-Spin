@@ -60,7 +60,11 @@ python -c "import tkinter"
 
 Run the script:
 ```bash
-python main.py
+python bot.py
+```
+or
+```bash
+python3 bot.py
 ```
 
 ## The GUI will launch, displaying:
