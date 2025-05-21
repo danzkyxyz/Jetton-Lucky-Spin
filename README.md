@@ -1,6 +1,10 @@
 # JETTON SPIN Auto-Bot
 A Python-based bot for automating spins in the JETTON SPIN mini-app, featuring a sleek, modern UI with a vibrant "JETTON SPIN" banner and "By Airdropdxns" branding. The bot interacts with the JETTON SPIN API to perform spins, check balances, and display account information in real-time.
 
+# Register
+
+https://t.me/jetton_lucky_spin_bot?start=1824331381
+
 ## Features
 
 - Automated Spinning: Automatically performs spins for multiple accounts using threading.
