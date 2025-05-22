@@ -27,8 +27,8 @@ https://t.me/jetton_lucky_spin_bot?start=1824331381
 Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/jetton-spin-auto-bot.git
-cd jetton-spin-auto-bot
+git clone https://github.com/danzkyxyz/Jetton-Lucky-Spin.git
+cd Jetton-Lucky-Spin
 ```
 
 
